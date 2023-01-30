@@ -13,7 +13,7 @@ class MyJobViewController: UIViewController {
                 
         Career: 4 years of working as a Quality Assurance Engineer with a focus on mobile apps.
 
-        I’ve worked for two companies and in both of them, I was the first QA engineer. It gave me a great opportunity to design and implement the QA process from scratch, and integrated it into the development pipeline, taking into account companies’ goals and resources. It was an amazing experience, I improved my QA skills as well as gained a lot of knowledge in related fields such as software development, design, analytics, and product management.
+        I’ve worked for two companies, and in both of them I was the first QA engineer. It gave me a great opportunity to design and implement the QA process from scratch, and integrated it into the development pipeline, taking into account companies’ goals and resources. It was an amazing experience, I improved my QA skills as well as gained a lot of knowledge in related fields such as software development, design, analytics, and product management.
 
         At some point in my career, I understood that the actual development, designing and implementation of the products and their features inspire me much more than the testing and verification of them. That’s why I decided to make a step forward in my career and started learning iOS development.
 

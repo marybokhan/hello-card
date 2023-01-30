@@ -11,19 +11,19 @@ class MyDayViewController: UIViewController {
         view.text = """
         • Get Up
         
-        • Eat breakfast
+        • Breakfast
         
         • Work
         
         • Go to Gym
         
-        • Eat Lunch
+        • Lunch
         
         • Work
         
         • Go for a walk
         
-        • Eat Dinner
+        • Dinner
         
         • Have time for myself
         
